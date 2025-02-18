@@ -1,10 +1,10 @@
 # Oi! Bem-vindo ao meu perfil 👋 
 
 ## 🎯 Sobre mim
-    Eu sou a Ana Júlia, estudante de Ciência da Computação pela USP Ribeirão Preto, e estou começando minha jornada como desenvolvedora! 
+Eu sou a Ana Júlia, estudante de Ciência da Computação pela USP Ribeirão Preto, e estou começando minha jornada como desenvolvedora! 
 
 ## 🚀 Área de Interesse
-    Sou apaixonada por design, me aprofundando em desenvolvimento front-end, a fim de aprimorar a experiência do usuário através de uma boa interface. Também estou começando a explorar Ciência de Dados, aprendendo conceitos fundamentais e ferramentas para análise de dados.
+Sou apaixonada por design, me aprofundando em desenvolvimento front-end, a fim de aprimorar a experiência do usuário através de uma boa interface. Também estou começando a explorar Ciência de Dados, aprendendo conceitos fundamentais e ferramentas para análise de dados.
 
 ### 🎓 Mais informações
 - **Nome:** Ana Julia Ticianeli Marcelino
